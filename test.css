@@ -474,6 +474,8 @@ body {
 
     .about-img img{
         border-radius: 50px;
+        height: 350px;
+    
     }
 
     .home-info .btn-sci .sci a {
